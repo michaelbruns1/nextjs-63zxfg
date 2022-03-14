@@ -1,5 +1,6 @@
 # nextjs-63zxfg
 
+[GraphQL Connection](https://docs.aws.amazon.com/appsync/latest/devguide/designing-your-schema.html)
 [Bootstrap 5 popperjs](https://www.npmjs.com/package/@popperjs/core)
 [Bootstrap 5 Install](https://medium.com/nextjs/how-to-add-bootstrap-in-next-js-de997371fd9c)
 [Bootstrap 5 Install JS Guide](https://www.kindacode.com/article/how-to-correctly-use-bootstrap-5-in-next-js/)
