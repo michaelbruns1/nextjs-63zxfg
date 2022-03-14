@@ -1,4 +1,6 @@
 import Head from 'next/head';
+// add bootstrap css
+import 'bootstrap/dist/css/bootstrap.css';
 import styles from '../styles/Home.module.css';
 
 export default function Home() {
@@ -9,9 +11,15 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
-        </h1>
+        <div class="jumbotron jumbotron-fluid ">
+          <h1 class="display-1 text-center">
+            Welcom to <br />
+            <a class="fw-bold" href="https://nextjs.org">
+              Next.js!
+            </a>
+          </h1>
+        </div>
+        <button className="btn btn-primary m-3">Button Primary</button>
 
         <p className={styles.description}>
           Get started by editing{' '}
